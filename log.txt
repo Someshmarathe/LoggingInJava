@@ -1,0 +1,6 @@
+Jun 17, 2025 1:05:39 PM LogginWithExternalPath main
+INFO: Project is starting to running
+Jun 17, 2025 1:05:40 PM LogginWithExternalPath main
+WARNING: Project in running please not interrupt
+Jun 17, 2025 1:05:40 PM LogginWithExternalPath main
+SEVERE: Error occure
