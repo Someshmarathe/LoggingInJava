@@ -14,7 +14,7 @@ public class LogginWithExternalPath
             String path = "C:/Users/Lenovo/Desktop/SpringIntelije/LogginInJava/log.txt";
 
             // log file - for log info
-            FileHandler fileHandler = new FileHandler(path , true);
+            FileHandler fileHandler = new FileHandler(path);
 
             // set formatter
             fileHandler.setFormatter(new SimpleFormatter());

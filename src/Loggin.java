@@ -10,7 +10,7 @@ public class Loggin {
     public static void main(String[] args) throws IOException {
 
         //1: file jisme log store honge
-        FileHandler fileHandler = new FileHandler("readme.md", true);
+        FileHandler fileHandler = new FileHandler("readme.md");
 
         //2: formatter set karo - log file format ke liye
         fileHandler.setFormatter(new SimpleFormatter());
