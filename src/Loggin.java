@@ -6,7 +6,7 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 import java.util.logging.SimpleFormatter;
 
-public class Main {
+public class Loggin {
     private static final Logger logger = Logger.getLogger("TestLoggin");
 
     public static void main(String[] args) throws IOException {
