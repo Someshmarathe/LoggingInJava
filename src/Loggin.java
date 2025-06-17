@@ -24,9 +24,8 @@ public class Loggin {
         //5: console se duplicate log remove karna ho to (Optional)
         //logger.setUseParentHandlers(true);
 
-
-           logger.warning("Don't Stop When Starting");
-           logger.info("Program is Executing");
-           logger.severe("This is error message");
+       logger.warning("Don't Stop When Starting");
+       logger.info("Program is Executing");
+       logger.severe("This is error message");
     }
 }
